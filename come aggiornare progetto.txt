@@ -1,0 +1,18 @@
+COME AGGIORNARE L'APP ONLINE
+============================
+
+1. Modifica i file con Visual Studio Code
+2. Salva le modifiche
+3. Nel Terminale (dentro la cartella spese-famiglia) esegui:
+
+   git add .
+   git commit -m "Descrizione della modifica"
+   git push
+
+4. Aspetta circa 1 minuto: Vercel aggiorna automaticamente l'app online
+
+Note:
+- Sostituisci "Descrizione della modifica" con una frase breve (es. "Aggiunto sfondo")
+- Se il push chiede username/password, usa il token GitHub
+
+Token: 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
