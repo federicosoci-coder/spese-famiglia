@@ -14,5 +14,3 @@ COME AGGIORNARE L'APP ONLINE
 Note:
 - Sostituisci "Descrizione della modifica" con una frase breve (es. "Aggiunto sfondo")
 - Se il push chiede username/password, usa il token GitHub
-
-Token: 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
